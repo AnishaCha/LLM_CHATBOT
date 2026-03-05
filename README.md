@@ -2,6 +2,10 @@
 
 A Natural Language Interface for converting natural language queries to tenant specific commands.
 
+## Prerequisites
+
+Ollama: for locally running any model. -Python 3.9+ -Streamlit -LangChain Community
+
 ## Features
 - Chat interface using Streamlit
 - LLM integration using LangChain
